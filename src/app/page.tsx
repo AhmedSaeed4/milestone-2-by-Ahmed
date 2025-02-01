@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="container">
       <h1>Welcome to My Portfolio</h1>
-      <p>Hi, I'm Ahmed Saeed. I'm a Motion Graphics Artist and 3D Artist specializing in After Effects, Unreal Engine, and Blender. I also have experience in TypeScript, HTML, and CSS.</p>
+      <p>Hi, Im Ahmed Saeed. Im a Motion Graphics Artist and 3D Artist specializing in After Effects, Unreal Engine, and Blender. I also have experience in TypeScript, HTML, and CSS.</p>
       <div className="cta-container">
         <a href="/about" className="cta-button">
           Learn More About Me

@@ -2,7 +2,7 @@ export default function About() {
     return (
       <div className="container">
         <h1>About Me</h1>
-        <p>I'm Ahmed Saeed, a passionate Motion Graphics Artist and 3D Artist with years of experience in creating stunning visuals using After Effects, Unreal Engine, and Blender.</p>
+        <p>Im Ahmed Saeed, a passionate Motion Graphics Artist and 3D Artist with years of experience in creating stunning visuals using After Effects, Unreal Engine, and Blender.</p>
         <h2>Skills</h2>
         <ul>
           <li>Motion Graphics (After Effects)</li>
